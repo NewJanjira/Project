@@ -5,6 +5,7 @@ This is my project object detection and Sushi shop management 2 parts of project
   - Tensorflow file for use with Application
 
 Link for custom model YOLOv11 but i adjust to YOLOv8 because in flutter have "flutter_vision" library for connect model and flutter
+
 this library can use with YOLOv5 and YOLOv8
 
 Link : https://www.youtube.com/watch?v=A1V8yYlGEkI&t=175s
