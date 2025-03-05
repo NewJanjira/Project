@@ -1,4 +1,5 @@
-This is my project object detection and Sushi shop management 2 parts of project 
+This is my project object detection and Sushi shop management 2 parts of project
+
 1.Model
   - My custom model
   - Tensorflow file for use with Application
